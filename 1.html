@@ -1,0 +1,28 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <link rel="icon" type="image/SH-icon" href="SH.jpg">
+    <link rel="stylesheet" href="1.css">
+    <title>ورود ثبت نام</title>
+</head>
+<body>
+<!--<ورود ثبت نام>-->
+<section class="container mt-4">
+    <form id="myform">
+    <br><label>نام کاربری :</label>
+    <br><input type="text" name="user">
+    <br><label>رمز ورود :</label>
+    <br><input type="password" name="pass">
+    <br><input type="submit" value="ورود"><br>
+</form>
+</section>
+<script>
+    var a=document.getElementById("myform");a.addEventListener("submit",function(event){
+        event.preventDefault();
+        alert("ورود موفقیت‌آمیز بود!");
+    });
+</script>
+</body>
+</html>

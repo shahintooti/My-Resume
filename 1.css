@@ -1,0 +1,29 @@
+html{
+    color:red;
+    font-family:'Times New Roman', Times, serif;
+    text-align:center;
+    text-shadow:2px 2px royalblue;
+    margin:10px;
+    cursor:pointer;
+    transition:1s;
+    box-shadow:0px 8px 16px turquoise;
+    border:10px;
+    padding:20px;
+    background-image:url(0000000.jpg);
+    background-size:cover;
+}
+input[type="submit"]{
+    padding:10px;
+    margin-top:30px; /* 👈 دکمه رو پایین‌تر می‌بره */
+    color:red;
+    font-family:'Times New Roman', Times, serif;
+    text-align:center;
+    text-shadow:2px 2px royalblue;
+    cursor:pointer;
+    transition:1s;
+    box-shadow:0px 8px 16px turquoise;
+    border:none;
+    padding:10px;
+    font-size:xx-large;
+    border-radius:10px;
+}

@@ -1,0 +1,72 @@
+html{
+    color:white;
+    font-family:'Times New Roman', Times, serif;
+    text-align:center;
+    text-shadow:2px 2px whitesmoke;
+    margin:10px;
+    cursor:pointer;
+    transition:1s;
+    box-shadow:0px 8px 16px rebeccapurple;
+    border:10px;
+    padding:20px;
+}
+h1{
+    color:white;
+    font-family:Georgia, 'Times New Roman', Times, serif;
+    border-color:whitesmoke;
+    margin:30px;
+    text-align:center;
+    text-shadow:2px 2px rebeccapurple;
+    border-radius:20px;
+    cursor:pointer;
+    transition:1s;
+    box-shadow:0px 8px 16px white;
+    border:10px;
+    padding:20px;
+    border-width:10px;
+}
+h2{
+    color:whitesmoke;
+    font-family:Georgia, 'Times New Roman', Times, serif;
+    border-color:rebeccapurple;
+    margin:30px;
+    text-align:center;
+    text-shadow:2px 2px white;
+    border-radius:20px;
+    cursor:pointer;
+    transition:1s;
+    box-shadow:0px 8px 16px whitesmoke;
+    border:10px;
+    padding:20px;
+    border-width:10px;
+}
+p{
+    color:rebeccapurple;
+    font-family:Georgia, 'Times New Roman', Times, serif;
+    border-color:white;
+    margin:30px;
+    text-align:center;
+    text-shadow:2px 2px whitesmoke;
+    border-radius:20px;
+    cursor:pointer;
+    transition:1s;
+    box-shadow:0px 8px 16px rebeccapurple;
+    border:10px;
+    padding:20px;
+    border-width:10px;
+}
+ol{
+    color:white;
+    font-family:Georgia, 'Times New Roman', Times, serif;
+    border-color:whitesmoke;
+    margin:30px;
+    text-align:center;
+    text-shadow:2px 2px rebeccapurple;
+    border-radius:20px;
+    cursor:pointer;
+    transition:1s;
+    box-shadow:0px 8px 16px white;
+    border:10px;
+    padding:20px;
+    border-width:10px;
+}
